@@ -1,0 +1,50 @@
+header {
+    background-color: grey;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    word-spacing: 1px;
+
+}
+
+a.indice {
+    color: white;
+    border: black 3px solid;
+    border-radius: 3px;
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+}
+
+aside {
+    
+    color: blue;
+    margin-right: 100px;
+    float: right;
+
+}
+
+section {
+    margin-left: 150px;
+    color: blue;
+
+}
+
+article {
+    margin-left: 250px;
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
+
+}
+
+section.map {
+    margin-left: 500px;
+}
